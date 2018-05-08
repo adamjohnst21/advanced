@@ -22,6 +22,9 @@ Header, navigation bar and footer
 
 }
 
+body a{
+	color: red;
+}
 
 .navBarText a{
 	font-family: 'Open Sans', sans-serif;
