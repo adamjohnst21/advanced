@@ -13,4 +13,4 @@ All Advanced programming content can be accessed via adamjohnst21.github.io/adva
 
 I realise it might be better to host the site from adamjohnst21.github.io, but my reasoning for
 not doing so is that I know later this semester we are given a talk about having our own webiste
-as part of PPD, so I might want to reserce this URL for a main Adam J page.
+as part of PPD, so I might want to reserve this URL for a main Adam J page.
